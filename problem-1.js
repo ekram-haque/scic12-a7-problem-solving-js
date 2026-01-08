@@ -7,5 +7,6 @@ function reverseString(text) {
 
   return result;
 }
+const result = reverseString("hello");
 
-// console.log(reverseString("hello"));
+console.log(result);

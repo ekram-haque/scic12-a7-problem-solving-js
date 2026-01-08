@@ -7,6 +7,6 @@ function checkPalindrome(text) {
 
   return text === result;
 }
-
-// console.log(checkPalindrome("madam"));
+const result = checkPalindrome("madam");
+// console.log(result);
 
