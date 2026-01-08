@@ -9,4 +9,4 @@ function reverseString(text) {
 }
 const result = reverseString("hello");
 
-console.log(result);
+// console.log(result);
